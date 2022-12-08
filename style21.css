@@ -112,7 +112,7 @@ label.logo{
 }
 
 .background-image{
-    background-image: url('images/Ekologo.jpg');
+    background-image: url('Ekologo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
