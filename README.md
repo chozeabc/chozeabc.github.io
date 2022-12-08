@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir ="ltr">
 <head>
     <meta charset="utf-8">
@@ -6,7 +5,6 @@
     <title>EKO - Home</title>
         <link rel="stylesheet" href="style21.css">
             <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap" rel="stylesheet">
-</head>
 </head>
 <body>
     <div class = "nav">
@@ -37,7 +35,6 @@
             
         <p>Starter Goal:</p>
         <p> Receive at least 500 downloads a day and eventually increase to at least 5000 downloads a day! </p>
-        </p>
        
         </div>
     </div>
